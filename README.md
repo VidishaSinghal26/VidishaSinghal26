@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning javascript and its frameworks
 - 📫 How to reach me: vidishasinghal43@gmail.com
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="VidishaSinghal26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="VidishaSinghal26" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vidisha-singhal-57a389216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidisha-singhal-57a389216/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vidisha_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vidisha_26" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/vidisha_26" target="blank"><img align="center" src="https://camo.githubusercontent.com/815a74b0728ea2aeee1ae5f5eede3de19457a72a6dd730cc74c88940891821fa/68747470733a2f2f75706c6f61642e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636f6465636865662f696d616765732f63303239303630382d336336622d343036632d393065662d3836653932303066333833612e737667" alt="https://www.codechef.com/users/vidisha_26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/Vidisha_S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Vidisha_S" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/Vidisha_Singhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vidisha_Singhal/" height="30" width="40" /></a>
 </p>
