@@ -23,14 +23,9 @@
 ![](https://github-trophies.vercel.app/?username=VidishaSinghal26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 Contribution Stats:
-
-| Github Stats |  Streaks   |
-| :------------: | :----------: |
-|   ![][stats]   | ![][streaks] |
-
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=VidishaSinghal26&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=vidishasinghal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=VidishaSinghal26&theme=dark&hide_border=false#gh-light-mode-only 
+![](https://github-readme-stats.vercel.app/api?username=vidishasinghal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vidishasinghal26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidishasinghal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 ## 💹 Contribution Graph:
 <div align = "center">
