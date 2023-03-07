@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=VidishaSinghal26&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 [langs]:username=VidishaSinghal26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=dark&hide_border=false#gh-light-mode-only
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=VidishaSinghal26&theme=dark&hide_border=false#gh-light-mode-only
 
