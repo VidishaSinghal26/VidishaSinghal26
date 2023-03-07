@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning javascript and its frameworks
 - 📫 How to reach me: vidishasinghal43@gmail.com
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="VidishaSinghal26" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +19,9 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/https://leetcode.com/Vidisha_Singhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vidisha_Singhal/" height="30" width="40" /></a>
 </p>
 
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="codeburner0" /> </p>
 
 ## 📊 Contribution Stats:
 
