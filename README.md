@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Vidisha Singhal</h1>
 <h3 align="center">A passionate Coder from India.</h3><BR>
@@ -32,8 +29,8 @@ Here are some ideas to get you started:
 |   ![][stats]   | ![][streaks] |
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=VidishaSinghal26&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]:username=VidishaSinghal26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=VidishaSinghal26&theme=dark&hide_border=false#gh-light-mode-only
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=vidishasinghal26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=VidishaSinghal26&theme=dark&hide_border=false#gh-light-mode-only 
   
 ## 💹 Contribution Graph:
 <div align = "center">
