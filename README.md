@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/https://leetcode.com/Vidisha_Singhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vidisha_Singhal/" height="30" width="40" /></a>
 </p>
 
-# 💻Tech Stack
+## 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
@@ -32,4 +32,11 @@ Here are some ideas to get you started:
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=VidishaSinghal26&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 [langs]:username=VidishaSinghal26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=VidishaSinghal26&theme=dark&hide_border=false#gh-light-mode-only
+  
+## 💹 Contribution Graph:
+<div align = "center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VidishaSinghal26&theme=react-dark&hide_border=false&area=true" width="900px" >
+</div>
+<br>
+<div align = "center">
 
