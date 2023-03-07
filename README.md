@@ -2,6 +2,9 @@
 
 Here are some ideas to get you started:
 
+<h1 align="center">Hi 👋, I'm Vidisha Singhal</h1>
+<h3 align="center">A passionate Coder from India.</h3><BR>
+
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning javascript and its frameworks
 - 📫 How to reach me: vidishasinghal43@gmail.com
