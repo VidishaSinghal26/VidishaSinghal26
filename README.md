@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vidisha Singhal</h1>
 <h3 align="center">A passionate coder who loves creating awesome things with code..</h3><BR>
 
-  <img align="right" alt="Coding" width="350px"  height="250px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">  
+  <img align="right" alt="Coding" width="350px"  height="250px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">  
 
 <ul>
   <li>🔭 I’m currently working on web development</li>
