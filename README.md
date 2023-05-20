@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vidisha Singhal</h1>
-<h3 align="center">A passionate Coder from India.</h3><BR>
+<h3 align="center">A passionate coder who loves creating awesome things with code..</h3><BR>
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning javascript and its frameworks
