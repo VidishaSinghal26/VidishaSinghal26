@@ -4,11 +4,11 @@
 
   <img align="right" alt="Coding" width="350px"  height="250px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">  
 
-<ul>
+<ul list-style-type:none>
   <li>🔭 I’m currently working on web development</li>
   <li>🌱 I’m currently learning javascript and its frameworks</li>
   <li>📫 How to reach me: vidishasinghal43@gmail.com</li>
-  </ul>
+</ul>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="VidishaSinghal26" /> </p>
 
