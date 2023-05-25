@@ -37,7 +37,7 @@
   
 ## 💹 Contribution Graph:
 <div align = "center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VidishaSinghal26&theme=react-dark&hide_border=false&area=true" width="900px" >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VidishaSinghal26&theme=react-dark&hide_border=false&area=true" width="900px" >
 </div>
 <br>
 <div align = "center">
