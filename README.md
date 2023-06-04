@@ -7,7 +7,7 @@
 <ul >
   <li>🔭 I’m currently working on web development</li>
   <li>🌱 I’m currently learning javascript and its frameworks</li>
-  <li>📫 How to reach me: vidishasinghal43@gmail.com</li>
+  <li>📫 How to reach me: <a href="mailto:vidishasinghal43@gmail.com"> vidishasinghal43@gmail.com <a></li>
 </ul>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VidishaSinghal26&label=Profile%20views&color=0e75b6&style=flat" alt="VidishaSinghal26" /> </p>
