@@ -5,8 +5,8 @@
   <img align="right" alt="Coding" width="350px"  height="250px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">  
 
 <ul >
-  <li>🔭 I’m currently working on web development</li>
-  <li>🌱 I’m currently learning javascript and its frameworks</li>
+  <li>🔭 I’m currently working on Web application  Development</li>
+  <li>🌱 I’m currently learning spring and its frameworks</li>
   <li>📫 How to reach me: <a href="mailto:vidishasinghal43@gmail.com"> vidishasinghal43@gmail.com <a></li>
 </ul>
   
